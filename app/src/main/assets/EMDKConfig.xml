@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wap-provisioningdoc>
+
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="CustomKeyMappings"/>
+    <characteristic type="DisplayMgr" version="9.2" >
+      <parm name="FontSize" value="1.15"/>
+      <parm name="DisplaySize" value="SMALL"/>
+    </characteristic>
+  </characteristic>
+
+  <characteristic type="Profile">
+    <parm name="ProfileName" value="DefaultKeyMappings"/>
+    <characteristic type="DisplayMgr" version="9.2" >
+      <parm name="FontSize" value="1.0"/>
+      <parm name="DisplaySize" value="DEFAULT"/>
+    </characteristic>
+  </characteristic>
+
+</wap-provisioningdoc>
